@@ -3,7 +3,7 @@ import { AuthProvider } from "./context/AuthContext";
 import AddNewInventory from "./pages/AddNewInventory.jsx";
 import RestockInventory from "./pages/RestockInventory.jsx";
 import InventoryTable from "./pages/InventoryTable";
-import UpdateInventory from "./pages/UpdateInventory";
+import UpdateInventory from "./pages/UpdateInventory.jsx";
 import IssueInventory from "./pages/IssueInventory";
 import IssueInventoryTable from "./pages/IssueInventoryTable.jsx";
 import ReturnInventory from "./pages/FacultyReturnInventory.jsx";
